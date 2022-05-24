@@ -1,0 +1,9 @@
+class Date
+{
+	int d;
+	int m;
+	int y;
+
+public:
+	Date();
+};
